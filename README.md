@@ -14,7 +14,10 @@ Jumper cables
 
 # Machine Learning
 Model trained using Edge Impulse platform https://edgeimpulse.com/ (free account for developers)
-Clone the repository, Deploy to Linux, ARM. Upload to Rpi, Change permissions to 744
+I will soon post the eim file or make public my project for cloning
+
+# Complete Instructions
+https://www.hackster.io/roni-bandini/reggaeton-be-gone-e5b6e2
 
 # Connections
 Oled SDA ->  Rpi GPIO 2
