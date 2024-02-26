@@ -1,0 +1,40 @@
+2024-02-25 07:13:50,Started
+2024-02-25 07:14:11,Listening
+2024-02-25 07:14:11,Model ReggaetonBGone
+2024-02-25 07:15:49,Started
+2024-02-25 07:15:54,Listening
+2024-02-25 07:15:55,Model ReggaetonBGone
+2024-02-25 07:22:33,Started
+2024-02-25 07:22:49,Listening
+2024-02-25 07:22:49,Model ReggaetonBGone
+2024-02-25 07:22:58,Interrupted
+2024-02-25 07:27:24,Started
+2024-02-25 07:27:38,Listening
+2024-02-25 07:27:38,Model ReggaetonBGone
+2024-02-25 07:27:47,Firing with threshold: 0.966625
+2024-02-25 07:27:47,Firing with method #2, pkg 800, target 4D:FA:0A:36:DF:CF
+2024-02-25 07:32:01,Started
+2024-02-25 07:35:18,Interrupted
+2024-02-25 07:35:36,Started
+2024-02-25 07:35:51,Listening
+2024-02-25 07:35:51,AI model ReggaetonBGone
+2024-02-25 07:36:00,Firing with threshold: 0.95625
+2024-02-25 07:36:01,Firing with method #1, pkg 800, target 4D:FA:0A:36:DF:CF
+2024-02-25 07:37:23,Started
+2024-02-25 07:37:44,Listening
+2024-02-25 07:37:44,AI model ReggaetonBGone
+2024-02-25 07:37:53,Firing with threshold: 0.97512
+2024-02-25 07:37:53,Firing with method #1, pkg 800, target 4D:FA:0A:36:DF:CF
+2024-02-25 07:38:34,Interrupted
+2024-02-25 07:43:20,Started
+2024-02-25 07:43:28,Listening
+2024-02-25 07:43:28,AI model ReggaetonBGone
+2024-02-25 07:43:37,Firing with threshold: 0.964435
+2024-02-25 07:43:37,Firing with method #1, pkg 800, target 4D:FA:0A:36:DF:CF
+2024-02-25 07:43:38,Interrupted
+2024-02-25 07:46:36,Started
+2024-02-25 07:46:46,Listening
+2024-02-25 07:46:47,AI model ReggaetonBGone
+2024-02-25 07:46:56,Firing with threshold: 0.95515625
+2024-02-25 07:46:56,Firing with method #1, pkg 800, target 4D:FA:0A:36:DF:CF
+2024-02-25 07:46:57,Interrupted
