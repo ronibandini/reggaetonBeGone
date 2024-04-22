@@ -17,7 +17,8 @@ Model trained using Edge Impulse platform https://edgeimpulse.com/ (free account
 I will soon post the eim file or make public my project for cloning
 
 # Complete Instructions
-https://www.hackster.io/roni-bandini/reggaeton-be-gone-e5b6e2
+English https://www.hackster.io/roni-bandini/reggaeton-be-gone-e5b6e2
+Spanish workshop https://www.youtube.com/watch?v=sPcHeiP9Xgg
 
 # Connections
 Oled SDA ->  Rpi GPIO 2
