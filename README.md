@@ -31,6 +31,10 @@ Button pin 2 -> GND
 
 Power supply: 5V 3A
 
+# 2.0 Experimental version
+This version was made for the Nerdearla Chile workshop. It includes several enhancements and it is available for download including ML model and 3d case at https://www.patreon.com/RoniBandini/shop/reggaeton-be-gone-experimental-2-0-289842
+
+
 # Oled screen font
 Font: White Rabbit, Created By: Matthew Welch
 
