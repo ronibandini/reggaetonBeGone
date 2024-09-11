@@ -39,4 +39,9 @@ This version was made for the Nerdearla Chile workshop. It includes several enha
 Font: White Rabbit, Created By: Matthew Welch
 
 # Contact
-Roni Bandini, @RoniBandini
+Customizations, prototyping, maker or AI talks? 
+
+Roni Bandini
+https://www.instagram.com/ronibandini/
+https://x.com/RoniBandini
+https://www.linkedin.com/in/ronibandini/
