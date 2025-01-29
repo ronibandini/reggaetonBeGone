@@ -32,11 +32,14 @@ Button pin 2 -> GND
 Power supply: 5V 3A
 
 # 2.0 Experimental version
-This version was made for the Nerdearla Chile workshop. It includes several enhancements and it is available for download including ML model and 3d case at https://www.patreon.com/RoniBandini/shop/reggaeton-be-gone-experimental-2-0-289842
+This version was made for the Nerdearla Chile workshop. It includes several enhancements  
 
+# 3.0 Experimental version
+This version was made for Ekoparty workshop and it was given for free to the participants. It includes on device scan, strike to avoid false positives, better ML model and more. You can get this version (software, 3d enclosure and ML model) at https://www.patreon.com/RoniBandini/shop/reggaeton-be-gone-version-experimental-3-860409 
 
-# Oled screen font
-Font: White Rabbit, Created By: Matthew Welch
+# Pocket Gone
+
+Reggaeton Be Gone is not an easy device to make. Besides, most people just need a simple way to disable loud Bluetooth speakers. I have another device called Pocket Gone—cheaper, portable, and easy to make. You can sign up for the asynchronous workshop and build your own. https://www.patreon.com/RoniBandini/shop/taller-virtual-de-pocket-gone-945256 
 
 # Contact
 Customizations, prototyping, maker or AI talks? 
