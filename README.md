@@ -1,4 +1,7 @@
 # Reggaeton Be Gone
+
+![RBG](https://github.com/user-attachments/assets/82ae1932-0db3-41b7-aafb-94ccb48f4141)
+
 Detects reggaeton musical genre with Machine Learning and sends packets to disable BT speakers (hopefully)
 
 # Parts 
