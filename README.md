@@ -2,23 +2,23 @@
 
 ![RBG](https://github.com/user-attachments/assets/82ae1932-0db3-41b7-aafb-94ccb48f4141)
 
-# 🎧🚫 Reggaeton Be Gone
-
-Detects **reggaeton music** using Machine Learning and sends packets to disrupt nearby Bluetooth speakers *(in theory)*.
-
----
-
-## 🧷 Alternative: Pocket Gone
+## 🧷 Updated Alternative: Pocket Gone
 
 If you want something simpler:
 
 **Pocket Gone**
 
-* 💸 Cheaper
-* 🎒 Portable
-* 🔧 Easier to build
+* 💸 Cheaper ($15 in parts)
+* 🎒 Portable 
+* 🔧 Easier to build 
 
-👉 https://www.patreon.com/RoniBandini/shop/taller-virtual-de-pocket-gone-945256
+👉 https://pocketgone.com
+
+# 🎧🚫 Reggaeton Be Gone
+
+Detects **reggaeton music** using Machine Learning and sends packets to disrupt nearby Bluetooth speakers 
+
+---
 
 ## 🧠 Overview
 
