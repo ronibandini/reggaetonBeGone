@@ -125,7 +125,6 @@ Pin 2 → GND
 ## ⚠️ Disclaimer
 
 * 🧪 Experimental project
-* 📡 Bluetooth interference is unreliable
 * ⚖️ May be restricted by local regulations
 
 Use responsibly.
