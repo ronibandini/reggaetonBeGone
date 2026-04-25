@@ -2,52 +2,140 @@
 
 ![RBG](https://github.com/user-attachments/assets/82ae1932-0db3-41b7-aafb-94ccb48f4141)
 
-Detects reggaeton musical genre with Machine Learning and sends packets to disable BT speakers (hopefully)
+# 🎧🚫 Reggaeton Be Gone
 
-# Parts 
-Raspberry Pi 3 https://www.dfrobot.com/product-1703.html?tracking=hOuIhw4fDaJRTdy4abz04npbQC78dqxBkqVt7XMFYxEXj2s0ukWgm71wbut0ewUP
+Detects **reggaeton music** using Machine Learning and sends packets to disrupt nearby Bluetooth speakers *(in theory)*.
 
-DFRobot Oled 128x32 screen https://www.dfrobot.com/product-2018.html?tracking=hOuIhw4fDaJRTdy4abz04npbQC78dqxBkqVt7XMFYxEXj2s0ukWgm71wbut0ewUP
+---
 
-Push button https://www.dfrobot.com/product-1098.html?tracking=hOuIhw4fDaJRTdy4abz04npbQC78dqxBkqVt7XMFYxEXj2s0ukWgm71wbut0ewUP
+## 🧷 Alternative: Pocket Gone
 
-BT Audio Receiver 5.0 (to test with your own BT) https://www.dfrobot.com/product-2085.html?tracking=hOuIhw4fDaJRTdy4abz04npbQC78dqxBkqVt7XMFYxEXj2s0ukWgm71wbut0ewUP 
+If you want something simpler:
 
-Jumper cables
+**Pocket Gone**
 
-# Machine Learning
-Model trained using Edge Impulse platform https://edgeimpulse.com/ (free account for developers)
-I will soon post the eim file or make public my project for cloning
+* 💸 Cheaper
+* 🎒 Portable
+* 🔧 Easier to build
 
-# Complete Instructions
-English https://www.hackster.io/roni-bandini/reggaeton-be-gone-e5b6e2
-Spanish workshop https://www.youtube.com/watch?v=sPcHeiP9Xgg
+👉 https://www.patreon.com/RoniBandini/shop/taller-virtual-de-pocket-gone-945256
 
-# Connections
-Oled SDA ->  Rpi GPIO 2
-Oled SCL -> Rpi GPIO 3
-Oled VCC -> Rpi VCC
-Oled GND -> Rpi GND
+## 🧠 Overview
 
-Button pin 1 -> GPIO26
-Button pin 2 -> GND
+Reggaeton Be Gone is an experimental Raspberry Pi device that:
 
-Power supply: 5V 3A
+* 🎙️ Captures audio input
+* 🤖 Classifies genre using an ML model
+* 📡 Triggers a Bluetooth interference routine when reggaeton is detected
 
-# 2.0 Experimental version
-This version was made for the Nerdearla Chile workshop. It includes several enhancements  
+Focus areas: **edge ML**, **audio classification**, **RF experimentation**
 
-# 3.0 Experimental version
-This version was made for Ekoparty workshop and it was given for free to the participants. It includes on device scan, strike to avoid false positives, better ML model and more. You can get this version (software, 3d enclosure and ML model) at https://www.patreon.com/RoniBandini/shop/reggaeton-be-gone-version-experimental-3-860409 
+---
 
-# Pocket Gone
+## 🧰 Hardware
 
-Reggaeton Be Gone is not an easy device to make. Besides, most people just need a simple way to disable loud Bluetooth speakers. I have another device called Pocket Gone—cheaper, portable, and easy to make. You can sign up for the asynchronous workshop and build your own. https://www.patreon.com/RoniBandini/shop/taller-virtual-de-pocket-gone-945256 
+* 🖥️ Raspberry Pi 3
+  https://www.dfrobot.com/product-1703.html
 
-# Contact
-Customizations, prototyping, maker or AI talks? 
+* 📟 DFRobot OLED 128x32 Display
+  https://www.dfrobot.com/product-2018.html
 
-Roni Bandini
-https://www.instagram.com/ronibandini/
-https://x.com/RoniBandini
-https://www.linkedin.com/in/ronibandini/
+* 🔘 Push Button
+  https://www.dfrobot.com/product-1098.html
+
+* 📶 Bluetooth Audio Receiver 5.0
+  https://www.dfrobot.com/product-2085.html
+
+* 🔌 Jumper cables
+
+* ⚡ Power supply: **5V / 3A**
+
+---
+
+## 🤖 Machine Learning
+
+* Trained with **Edge Impulse**
+  https://edgeimpulse.com/
+
+* 🎵 Audio classification model for reggaeton detection
+
+* 📦 Planned: public `.eim` file or open project for cloning
+
+---
+
+## 🔌 Wiring
+
+### 📟 OLED Display
+
+```
+SDA  → GPIO 2  
+SCL  → GPIO 3  
+VCC  → 3.3V / 5V  
+GND  → GND  
+```
+
+### 🔘 Button
+
+```
+Pin 1 → GPIO 26  
+Pin 2 → GND  
+```
+
+---
+
+## ⚙️ How It Works
+
+1. 🎙️ Capture audio
+2. 🤖 Run inference locally
+3. 🚫 If reggaeton detected:
+
+   * 📡 Send Bluetooth packets
+   * 🔇 Attempt to disrupt nearby speakers
+
+---
+
+## 🧪 Versions
+
+### 🧩 v2.0 (Experimental)
+
+* Built for Nerdearla Chile
+* Incremental improvements
+
+### 🧩 v3.0 (Experimental)
+
+* Built for Ekoparty
+* Includes:
+
+  * 📡 On-device scan
+  * 🎯 Strike system (reduce false positives)
+  * 🤖 Improved ML model
+  * 🧱 Enclosure + full package
+
+👉 https://www.patreon.com/RoniBandini/shop/reggaeton-be-gone-version-experimental-3-860409
+
+---
+
+## 📚 Full Instructions
+
+* 🇬🇧 https://www.hackster.io/roni-bandini/reggaeton-be-gone-e5b6e2
+* 🇪🇸 https://www.youtube.com/watch?v=sPcHeiP9Xgg
+
+---
+
+## ⚠️ Disclaimer
+
+* 🧪 Experimental project
+* 📡 Bluetooth interference is unreliable
+* ⚖️ May be restricted by local regulations
+
+Use responsibly.
+
+---
+
+## 📬 Contact
+
+* 📸 https://www.instagram.com/ronibandini/
+* 🐦 https://x.com/RoniBandini
+* 💼 https://www.linkedin.com/in/ronibandini/
+
+---
